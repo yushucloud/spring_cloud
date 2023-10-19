@@ -9,8 +9,9 @@ gitee github 做到了同步
 
 #### 软件架构
 软件架构说明
+sdf 
 
-
+asd
 #### 安装教程
 
 1.  xxxx
